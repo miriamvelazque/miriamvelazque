@@ -2,7 +2,7 @@
 
 **Técnica Superior en Ciencia de Datos e Inteligencia Artificial** (Politécnico Malvinas Argentinas, Río Grande, Tierra del Fuego).
 
-Combino más de 10 años en **control de calidad y auditorías ISO 9001** en la industria electrónica con análisis de datos, machine learning y visión por computadora. Me interesa aplicar la IA a problemas reales y validar que los resultados sean confiables.
+Combino más de 10 años en **control de calidad y auditorías** en la industria electrónica con análisis de datos, machine learning y visión por computadora. Me interesa aplicar la IA a problemas reales y validar que los resultados sean confiables.
 
 🔬 Visión por computadora y análisis de imágenes · 📊 Análisis de datos y dashboards · 🤖 Machine learning y NLP · ✅ Calidad y validación de datos
 
